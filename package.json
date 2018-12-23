@@ -1,0 +1,14 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Picture ML Tool - Example backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chema @ Digitalilusion.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
